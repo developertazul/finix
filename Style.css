@@ -147,7 +147,7 @@ body .btn-primary:hover::after{
 
 
 .slider-section{
-  background-image: url("img/main-banner2.jpg");
+  background-image: url("main-banner2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -228,7 +228,7 @@ body .btn-primary:hover::after{
   position: absolute;
   bottom: 80px;
   right: 0px;
-  background-image: url("img/shape.png");
+  background-image: url("shape.png");
   background-repeat: no-repeat;
   background-position: center center;
   text-align: center;
