@@ -228,7 +228,8 @@ body .btn-primary:hover::after{
   position: absolute;
   bottom: 80px;
   right: 0px;
-  background-image: url("shape.png");
+    background-image: url("shape.png");
+
   background-repeat: no-repeat;
   background-position: center center;
   text-align: center;
